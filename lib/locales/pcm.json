@@ -1,0 +1,100 @@
+{
+  "header": {
+    "home": "Home",
+    "services": "Our Service",
+    "contact": "Contact Us",
+    "login": "Log In",
+    "signup": "Register"
+  },
+  "footer": {
+    "company": "Dudu-Black Autos",
+    "about": "About Dudu-Black",
+    "careers": "Work With Us",
+    "services": "Our Service Dem",
+    "resources": "Resources",
+    "blog": "Blog",
+    "docs": "How To",
+    "help": "Help Center",
+    "legal": "Legal Matter",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "cookies": "Cookie Policy",
+    "follow": "Follow Us",
+    "copyright": "© {year} Dudu-Black Autos Naija. All rights reserved."
+  },
+  "homepage": {
+    "hero_title": "Dudu-Black Autos: Beta Chauffeur Service for Naija",
+    "hero_subtitle": "Enjoy levels and comfort wey pass for your special occasion anywhere for Naija.",
+    "cta_button": "See Our Service",
+    "services_title": "Our Special Service Dem"
+  },
+  "contact_page": {
+    "title": "Contact Dudu-Black Autos",
+    "subtitle": "Holla us make you book or ask question about our beta chauffeur service for Naija.",
+    "form_name": "Your Full Name",
+    "form_email": "Email Address",
+    "form_message": "Your Message",
+    "form_submit": "Send Message",
+    "details_title": "Our Contact",
+    "phone": "Phone Number",
+    "email": "Email Address",
+    "address": "Office Address"
+  },
+  "service_page": {
+    "book_now": "Book Now",
+    "vehicle_details": "Our Main Motor",
+    "rolls_royce_ghost": "Rolls Royce Ghost 6.6",
+    "features": "Key Features",
+    "location_info": "Area Wey We Dey Serve",
+    "faq_title": "Question Wey People Dey Ask",
+    "vehicle_details_desc": "Enjoy the highest level of motor luxury with our Rolls Royce Ghost."
+  },
+  "highlights": {
+    "block_title": "Why You Go Choose Us?",
+    "professionalism_title": "Correct Service",
+    "professionalism_desc": "Correct drivers wey sabi work.",
+    "luxury_title": "Top Level Luxury",
+    "luxury_desc": "Cruise inside Rolls Royce Ghost.",
+    "punctuality_title": "Sharp Sharp",
+    "punctuality_desc": "We dey reliable and always on time.",
+    "local_expertise_title": "We Sabi Road for"
+  },
+  "vehicle_features": {
+    "feature1": "Soft Leather Seat",
+    "feature2": "Ogbonge Sound System",
+    "feature3": "Privacy Partition",
+    "feature4": "Free Drinks Inside"
+  },
+  "location_focus": {
+    "title_prefix": "We Dey Serve",
+    "desc_prefix": "We dey proud say we dey offer our beta chauffeur service for",
+    "desc_suffix": "Our team go make sure say your movement smooth well-well for the area."
+  },
+  "testimonials": {
+    "block_title": "Wetin Our Customers Dey Talk",
+    "placeholder1": "Service na tear rubber! E make our wedding day too special.",
+    "placeholder2": "Na the highest level of luxury and correct service. I recommend am well-well."
+  },
+  "faq": {
+    "block_title": "Question Wey People Dey Ask",
+    "title_prefix": "FAQs for",
+    "q1": "Wetin dey inside the service?",
+    "a1": "Our service get correct driver, the Rolls Royce Ghost, free drinks, and normal decoration for wedding.",
+    "q2": "Una dey work outside",
+    "a2": "Yes, we dey serve big cities for Naija. Abeg contact us if you wan ask about specific place.",
+    "q3": "How I go book?",
+    "a3": "You fit book if you call us, send email, or use the contact form for our website.",
+    "q4_prefix": "Wetin be the smallest time wey I fit book for",
+    "a4_generic": "Smallest booking time fit change based on the event and place. Abeg contact us make you know."
+  },
+  "booking_cta": {
+    "title_prefix": "You Ready to book our",
+    "button_text": "Book Your Beta Experience"
+  },
+  "placeholders": {
+    "phone_number": "+234 800 000 0000",
+    "email_address": "bookings@dudublackautos.example",
+    "street_address": "123 Luxury Drive, Lagos, Nigeria"
+  },
+  "company_name": "Dudu-Black Autos"
+}

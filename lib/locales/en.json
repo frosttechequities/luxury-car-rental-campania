@@ -1,0 +1,101 @@
+{
+  "header": {
+    "home": "Home",
+    "services": "Services",
+    "contact": "Contact Us",
+    "login": "Log In",
+    "signup": "Sign Up"
+  },
+  "footer": {
+    "company": "Dudu-Black Autos",
+    "about": "About Dudu-Black",
+    "careers": "Careers",
+    "services": "Our Services",
+    "resources": "Resources",
+    "blog": "Blog",
+    "docs": "Guides",
+    "help": "Help Center",
+    "legal": "Legal",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "cookies": "Cookie Policy",
+    "follow": "Follow Us",
+    "copyright": "© {year} Dudu-Black Autos Nigeria. All rights reserved."
+  },
+  "homepage": {
+    "hero_title": "Dudu-Black Autos: Luxury Chauffeur Service in Nigeria",
+    "hero_subtitle": "Experience unparalleled elegance and comfort for your special occasions across Nigeria.",
+    "cta_button": "Explore Services",
+    "services_title": "Our Exclusive Services"
+  },
+  "contact_page": {
+    "title": "Contact Dudu-Black Autos",
+    "subtitle": "Get in touch for bookings or inquiries about our luxury chauffeur services in Nigeria.",
+    "form_name": "Full Name",
+    "form_email": "Email Address",
+    "form_message": "Your Message",
+    "form_submit": "Send Message",
+    "details_title": "Our Contact Details",
+    "phone": "Phone Number",
+    "email": "Email Address",
+    "address": "Office Address"
+  },
+  "service_page": {
+    "book_now": "Book Now",
+    "vehicle_details": "Our Signature Vehicle",
+    "rolls_royce_ghost": "Rolls Royce Ghost 6.6",
+    "rolls_royce_ghost_desc": "The Ghost combines contemporary luxury with dynamic performance. Perfect for making an entrance.",
+    "features": "Key Features",
+    "location_info": "Service Area Information",
+    "faq_title": "Frequently Asked Questions",
+    "vehicle_details_desc": "Experience the pinnacle of automotive luxury with our Rolls Royce Ghost."
+  },
+  "highlights": {
+    "block_title": "Why Choose Us?",
+    "professionalism_title": "Professionalism",
+    "professionalism_desc": "Expert & Discreet Chauffeurs",
+    "luxury_title": "Unmatched Luxury",
+    "luxury_desc": "Immaculate Rolls Royce Fleet",
+    "punctuality_title": "Punctuality",
+    "punctuality_desc": "Guaranteed On-Time Service",
+    "local_expertise_title": "Local Expertise in"
+  },
+  "vehicle_features": {
+    "feature1": "Plush Leather Seating",
+    "feature2": "State-of-the-Art Sound System",
+    "feature3": "Privacy Partition",
+    "feature4": "Complimentary Refreshments"
+  },
+  "location_focus": {
+    "title_prefix": "Serving",
+    "desc_prefix": "We proudly offer our luxury chauffeur services in",
+    "desc_suffix": "Our team ensures seamless travel throughout the area."
+  },
+  "testimonials": {
+    "block_title": "What Our Clients Say",
+    "placeholder1": "Dudu-Black Autos provided an exceptional Rolls Royce for our wedding. The chauffeur was professional, the car was stunning, and everything ran perfectly smoothly. Truly unforgettable!",
+    "placeholder2": "For important business meetings, Dudu-Black is my go-to. Their punctuality and the sheer quality of their vehicles always impress my clients. Top-tier service."
+  },
+  "faq": {
+    "block_title": "Frequently Asked Questions",
+    "title_prefix": "FAQs for",
+    "q1": "What is included in the service?",
+    "a1": "Our service includes a professional chauffeur, the Rolls Royce Ghost, complimentary refreshments, and standard decorations for weddings.",
+    "q2": "Do you operate outside of",
+    "a2": "Yes, we serve major cities across Nigeria. Please contact us for specific location inquiries.",
+    "q3": "How do I book?",
+    "a3": "You can book by contacting us via phone, email, or the contact form on our website.",
+    "q4_prefix": "What is the minimum booking time for",
+    "a4_generic": "Minimum booking times may vary depending on the event and location. Please contact us for details."
+  },
+  "booking_cta": {
+    "title_prefix": "Ready to book our",
+    "button_text": "Book Your Luxury Experience"
+  },
+  "placeholders": {
+    "phone_number": "+234 803 123 4567",
+    "email_address": "bookings@dudublackautos.com.ng",
+    "street_address": "15 Elegance Avenue, Victoria Island, Lagos"
+  },
+  "company_name": "Dudu-Black Autos"
+}

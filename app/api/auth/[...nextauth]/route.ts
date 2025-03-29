@@ -7,7 +7,7 @@ import { supabaseAdmin } from '@/lib/supabaseAdmin'; // Import Supabase admin cl
 import { AuthOptions } from 'next-auth'; // Import AuthOptions type
 
 // Define AuthOptions separately
-export const authOptions: AuthOptions = {
+const authOptions: AuthOptions = { // Removed 'export'
   providers: [
     GoogleProvider({
       clientId: process.env.GOOGLE_CLIENT_ID!, // Assert non-null with !

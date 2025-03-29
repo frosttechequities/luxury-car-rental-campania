@@ -1,6 +1,6 @@
 // app/[lang]/profile/page.tsx
 import { getServerSession } from "next-auth/next";
-import { authOptions } from "@/app/api/auth/[...nextauth]/route"; // Import authOptions
+import { authOptions } from "@/lib/authOptions"; // Import authOptions from lib
 import { Locale } from "@/lib/dictionary";
 import { redirect } from 'next/navigation'; // Import redirect
 import { supabaseAdmin } from '@/lib/supabaseAdmin'; // Import Supabase

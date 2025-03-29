@@ -86,12 +86,12 @@ export default function Header({ dict, lang }: HeaderProps) {
                )}
                {status === 'unauthenticated' && (
                  <div className="flex items-center gap-2"> {/* Wrap buttons */}
-                   <Link href={`/${lang}/login`} passHref legacyBehavior>
-                     <Button as="a" size="sm">{dict.header.login}</Button>
+                   <Link href={`/${lang}/login`} passHref>
+                     <Button size="sm" asChild>{dict.header.login}</Button>
                    </Link>
-                   <Link href={`/${lang}/signup`} passHref legacyBehavior>
+                   <Link href={`/${lang}/signup`} passHref>
                       {/* Assuming you add 'signup' to your dictionary */}
-                     <Button as="a" variant="outline" size="sm">{dict.header.signup || 'Sign Up'}</Button>
+                     <Button variant="outline" size="sm" asChild>{dict.header.signup || 'Sign Up'}</Button>
                    </Link>
                  </div>
                )}
